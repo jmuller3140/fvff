@@ -5,7 +5,7 @@ import poverty from "../../pics/poverty.jpg";
 import fv from "../../pics/fv-image.png";
 import fv400 from "../../pics/fv400logo1.png";
 
-const Background = 'http://placekitten.com/600/600';
+const Background = 'https://placekitten.com/600/600';
 //<img src={fv} alt="fv-image" height="400px" width="275px"/>
 class Home extends Component {
   render() {

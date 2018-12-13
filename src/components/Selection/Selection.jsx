@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import styled from 'styled-components';
 
-const Background = 'http://placekitten.com/600/100';
+const Background = 'https://placekitten.com/600/100';
 import Film from '../Film/Film';
 import * as pics from "../../pics";
 import config from '../../../data/SiteConfig'

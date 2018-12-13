@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import styled from "styled-components";
 
-const Background = 'http://placekitten.com/600/100';
+const Background = 'https://placekitten.com/600/100';
 
 class Contact extends Component {
   render() {

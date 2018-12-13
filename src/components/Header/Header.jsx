@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "gatsby";
 import styled from "styled-components";
-import { GlobalStyle } from "../GlobalStyle/GlobalStyle";
 
 const logo = 'https://placekitten.com/g/200/100';
 
@@ -11,7 +10,6 @@ class Header extends Component {
 
     return (
        <div>
-            <GlobalStyle/>
             <HeaderContainer>
                 <TitleContainer>
                     <Logo>

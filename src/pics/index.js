@@ -60,7 +60,7 @@ import sacrilegeFull from "./sacrilege.jpg";
 import sonFull from "./son_of.jpg";
 import birdPainterFull from "./the_bird_painter.jpg";
 import prodigalFull from "./the_prodigal.jpg";
-import dreamFull from "./they_wont_let_a_dream.jpg";
+import dreamFull from "./They_wont_let_a_dream.jpg";
 import thirdKindFull from "./third_kind.jpg";
 import psaFull from "./This_is_not_a_psa.jpg";
 import voicesBeyondFull from "./voices_beyond_the_wall.jpg";

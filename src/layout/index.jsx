@@ -3,7 +3,7 @@ import Helmet from "react-helmet";
 import Header from "../components/Header/Header";
 import Footer from "../components/Footer/Footer";
 import config from "../../data/SiteConfig";
-import { GlobalStyle } from "../src/components/GlobalStyle/GlobalStyle";
+import { GlobalStyle } from "../components/GlobalStyle/GlobalStyle";
 import "./index.css";
 
 export default class MainLayout extends React.Component {

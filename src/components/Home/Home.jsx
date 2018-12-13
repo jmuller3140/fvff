@@ -83,6 +83,7 @@ const Words = styled.div`
     background-color:#4d4d4d;
     padding:1em;
     width:45%;
+    font-family: Raleway-Regular;
 `;
 const RightContent=styled.div`
     width: 80%
@@ -103,7 +104,7 @@ const PanelTwo = styled.div`
 `;
 const SectionOne = styled.div`
     width:60%
-    font-family: raleway-regular;
+    font-family: Raleway-regular;
     font-size:18pt;
     line-height:1.5em;
     color:#343434;

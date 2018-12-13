@@ -26,7 +26,7 @@ import sacrilege from "./sacrilege-thumb.jpg";
 import son from "./son-of-thumb.jpg";
 import birdPainter from "./the-bird-painter-thumb.jpg";
 import prodigal from "./the-prodigal-thumb.jpg";
-import dream from "./they-wont-let-a-dream-thumb.jpg";
+import dream from "./They-wont-let-a-dream-thumb.jpg";
 import thirdKind from "./third-kind-thumb.jpg";
 import psa from "./This-is-not-a-psa-thumb.jpg";
 import voicesBeyond from "./voices-beyond-the-wall-thumb.jpg";

@@ -17,7 +17,7 @@ import leccion from "./la-leccion-thumb.jpg";
 import laThrive from "./la-thrive-thumb.jpg";
 import ladies from "./ladies-of-charity-thumb.jpg";
 import lovers from "./lovers-of-the-night-thumb.jpg";
-import nostrum from "./mare-nostrum-thumb.jpg";
+import nostrum from "./Mare-nostrum-thumb.jpg";
 import murga from "./murga-thumb.jpg";
 import fish from "./my-father-the-fish-thumb.jpg";
 import nobodyDies from "./nobody-dies-here-thumb.jpg";

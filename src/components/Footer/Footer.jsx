@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import styled from "styled-components";
 import { Link } from "gatsby";
 import config from "../../../data/SiteConfig";
-import "./Footer.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCopyright } from '@fortawesome/free-solid-svg-icons'
 import { faInstagram, faFacebook, faTwitterSquare, faVimeo, faYoutube } from '@fortawesome/free-brands-svg-icons';
@@ -107,7 +106,7 @@ const styles = {
         border-top:1px solid silver;
 
         &:hover{
-            color: rgba(178, 25, 0, 1);
+            color: #FFFF33;
         }
     `;
     const Copyright = styled.div`

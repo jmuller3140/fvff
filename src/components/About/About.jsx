@@ -85,4 +85,5 @@ const Description = styled.div`
     font-family Raleway-Regular;
     font-size:15pt;
     line-height: 1.5em;
+    text-align:justify;
 `;

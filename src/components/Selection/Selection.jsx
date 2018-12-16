@@ -5,6 +5,7 @@ const Background = 'https://placekitten.com/600/100';
 import Film from '../Film/Film';
 import * as pics from "../../pics";
 import config from '../../../data/SiteConfig'
+import SearchBar from '../SearchBar/SearchBar'
 
 export default class Selection extends Component {
     constructor(){
@@ -67,8 +68,9 @@ export default class Selection extends Component {
             <ContentContainer>
                 <ContentWrapper>
                     <Banner>
-                        <Title>Selection</Title>
+                        <Title>Media</Title>
                     </Banner>
+                    <SearchBar />
                     <Content>
                         <Header>Features</Header>
                             <FilmSection>

@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 import poverty from "../../pics/poverty.jpg";
 import fv from "../../pics/fv-image.png";
-import fv400 from "../../pics/fv400logo1.png";
+import fv400 from "../../pics/five-virtues.jpg";
 
 const Background = 'https://placekitten.com/600/600';
 //<img src={fv} alt="fv-image" height="400px" width="275px"/>
@@ -13,7 +13,6 @@ class Home extends Component {
         <ContentContainer>
             <PanelOne>
                 <LeftContent>
-                    <Color/>
                     <Image>
                         <img src={fv400} alt="fv400"/>
                     </Image>
@@ -24,7 +23,7 @@ class Home extends Component {
             </PanelOne>
             <PanelTwo>
                 <SectionOne>
-                    We want to champion 21st century storytellers and challenge audiences with films that change our perspective on poverty in our communityies. We spark our imaginations by sharing the charism through creativity that is inspired by the Vincentian mission to globalize charity.
+                    We want to champion 21st century storytellers and challenge audiences with films that change our perspective on poverty in our communities. We spark our imaginations by sharing the charism through creativity that is inspired by the Vincentian mission to globalize charity.
                 </SectionOne>
                 <SectionTwo>
                     <div>
@@ -68,12 +67,12 @@ const LeftContent = styled.div`
     justify-content:flex-start;
     font-family: Raleway-Regular;
     font-size:20pt;
-    background-color:#696969;
+    background-color:#579ABB;
     color:white;
 `;
 const Image = styled.div`
-    margin-left:2em;
-    margin-top:-2em;
+    margin-top:4em;
+    margin-left:0em;
 `;
 const Words = styled.div`
     position:absolute;
@@ -84,6 +83,7 @@ const Words = styled.div`
     padding:1em;
     width:45%;
     font-family: Raleway-Regular;
+    text-align:justify;
 `;
 const RightContent=styled.div`
     width: 80%
@@ -109,6 +109,7 @@ const SectionOne = styled.div`
     line-height:1.5em;
     color:#343434;
     margin-bottom:3em;
+    text-align: justify;
 `;
 const SectionTwo = styled.div`
     display:flex;

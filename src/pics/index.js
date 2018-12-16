@@ -66,6 +66,8 @@ import psaFull from "./This_is_not_a_psa.jpg";
 import voicesBeyondFull from "./voices_beyond_the_wall.jpg";
 import westsideFull from "./westside.jpg";
 
+import front from './front.png'
+import back from './back.png'
 
 
-export { wisdom, wisdomFull, aazar, aazarFull, ainhoa, ainhoaFull, baobei, baobeiFull, crisis, crisisFull, criteria, criteriaFull, cuerdas, cuerdasFull, death, deathFull, fatima, fatimaFull, forgotten, forgottenFull, goodbye, goodbyeFull, signore, signoreFull, home, homeFull, threeYears, threeYearsFull, jesus, jesusFull, leccion, leccionFull, laThrive, laThriveFull, ladies, ladiesFull, lovers, loversFull, nostrum, nostrumFull, murga, murgaFull, fish, fishFull, nobodyDies, nobodyDiesFull, redLibertad, redLibertadFull, sacrilege, sacrilegeFull, son, sonFull, birdPainter, birdPainterFull, prodigal, prodigalFull, dream, dreamFull, thirdKind, thirdKindFull, psa, psaFull, voicesBeyond, voicesBeyondFull, westside, westsideFull }
+export { wisdom, wisdomFull, aazar, aazarFull, ainhoa, ainhoaFull, baobei, baobeiFull, crisis, crisisFull, criteria, criteriaFull, cuerdas, cuerdasFull, death, deathFull, fatima, fatimaFull, forgotten, forgottenFull, goodbye, goodbyeFull, signore, signoreFull, home, homeFull, threeYears, threeYearsFull, jesus, jesusFull, leccion, leccionFull, laThrive, laThriveFull, ladies, ladiesFull, lovers, loversFull, nostrum, nostrumFull, murga, murgaFull, fish, fishFull, nobodyDies, nobodyDiesFull, redLibertad, redLibertadFull, sacrilege, sacrilegeFull, son, sonFull, birdPainter, birdPainterFull, prodigal, prodigalFull, dream, dreamFull, thirdKind, thirdKindFull, psa, psaFull, voicesBeyond, voicesBeyondFull, westside, westsideFull, front, back }

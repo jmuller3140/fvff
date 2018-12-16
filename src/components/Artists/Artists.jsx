@@ -14,7 +14,7 @@ class Artists extends Component {
                 <Content>
                     <Header>Seeds of Hope Competition</Header>
                     <Description>
-                        All those under the age of 18 are invited to create seeds of hope, we call upon you to utilize any creative expression (story, poen, image,
+                        All those under the age of 18 are invited to create seeds of hope, we call upon you to utilize any creative expression (story, poetry, image,
                         sculpture, music, etc.) that inspires direct service to the poor. Jury-selected artists will be invited to the festival and awarded a trip to
                         Castel Gondolfo, Italy, from Octover 18-21, 2018. <br />
                         Please upload a video, image or document that best showcases your artwork.<br />
@@ -88,4 +88,5 @@ const Description = styled.div`
     font-family Raleway-Regular;
     font-size:15pt;
     line-height: 1.5em;
+    text-align: justify;
 `;

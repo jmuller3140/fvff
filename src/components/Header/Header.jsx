@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Link } from "gatsby";
 import styled from "styled-components";
 
-const logo = 'https://placekitten.com/g/200/100';
+import { front } from '../../pics';
 
 class Header extends Component {
   render() {
@@ -13,7 +13,7 @@ class Header extends Component {
             <HeaderContainer>
                 <TitleContainer>
                     <Logo>
-                        <img src={logo} alt="lvff logo"/>
+                        <img src={ front } alt="lvff logo"/>
                     </Logo>
                     <Titles>
                         <StyledLink to='/'>
@@ -26,7 +26,7 @@ class Header extends Component {
                 <Navigation>
                     <StyledLink to='/'>Home</StyledLink>
                     <StyledLink to='/artists'>Artists</StyledLink>
-                    <StyledLink to='/selection'>Selection</StyledLink>
+                    <StyledLink to='/selection'>Media</StyledLink>
                     <StyledLink to='/about'>About</StyledLink>
                     <StyledLink to='/contact'>Contact</StyledLink>
                 </Navigation>
@@ -49,7 +49,7 @@ const HeaderContainer = styled.div`
     display: inline-flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #29292A;
+    background-color: #4D4D4D;
     z-index:100;
 `;
 //

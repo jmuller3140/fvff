@@ -18,11 +18,11 @@ class Contact extends Component {
                     </Description>
                     <Header>Volunteer Opportunities</Header>
                     <Description>
-                        Our festival could not be completed each year without our gracious volunteers.
+
                     </Description>
                     <Header>Sponsorship</Header>
                     <Description>
-                    Becoming a sponsor of the Las Vegas Films Festival is an opportunity for you and your business to benefit from exposure to highly desirable demographic as well as a remarkably large tourist base of over 30 million visitors a year through a wide variety of outlets including international media coverage, television and print advertising, program guides, in-theater media and signage, website, blogs, e-newsletters and social media boosts all using LVFF’s unique identity. With extensive media coverage, the Las Vegas Film Festival in Las Vegas’ premiere film event and can provide high visibility and positive PR for a corporation, small business or individual affiliated with the Festival.
+
                     </Description>
                 </Content>
             </ContentWrapper>
@@ -85,4 +85,5 @@ const Description = styled.div`
     font-size:15pt;
     line-height: 1.5em;
     color:black;
+    text-align: justify;
 `;

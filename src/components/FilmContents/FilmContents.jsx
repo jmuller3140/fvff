@@ -88,12 +88,12 @@ const Title = styled.div`
     left:0;
     margin-top: 3.5em;
     width: 100%;
-    font-size:30pt;
+    font-size:40pt;
     font-family: Raleway-Bold;
     text-align:center;
     padding-top:1em;
     padding-bottom:1em;
-    color:black;
+    color:silver;
 `;
 const Header = styled.div`
     font-size:25pt;
